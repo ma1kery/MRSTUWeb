@@ -1,2 +1,2 @@
-# MRSTUWeb
-MRSTUWeb project
+# Music Web Player
+
